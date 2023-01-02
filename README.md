@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
 
 - [x] Linter configs for **hint**, **stylelint** and **eslint**
 - [x] Initialized package.json and add linter dependencies
-- [x] `node_modules` folder in [.gitignore](/.gitinore)
+- [x] `node_modules` folder in [.gitignore](/.gitignore)
 - [x] Include [Miroverse README.md](https://github.com/microverseinc/readme-template/blob/master/README.md)
 
 > Remove this block when you submit the project.
